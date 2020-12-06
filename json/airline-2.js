@@ -667,40 +667,46 @@
         CoPilotName:"",
         Numberofreceptionist:""
     },{
-        FlightNo:"",
-        Type:"",
+        FlightNo:"FD3205",
+        Type:"one-ways",
         Class:[{
-            FirstClass:{Price:"",NumberOfPassengers:""},
-            BusinessClass:{Price:"",NumberOfPassengers:""},
-            Economy:{Price:"",NumberOfPassengers:""}
+            FirstClass:{Price:12900,NumberOfPassengers:12},
+            BusinessClass:{Price:4580,NumberOfPassengers:60},
+            Economy:{Price:959,NumberOfPassengers:435}
         }],
-        Source:"",
-        AirportSource:"",
-        Destination:"",
-        AirportDestination:"",
-        Date:"",
-        DepartureTime:"",
-        ArrivingTime:"",
-        CaptionName:"",
-        CoPilotName:"",
-        Numberofreceptionist:""
+        Source:"กรุงเทพมหานคร(DMK)",
+        AirportSource:"ท่าอากาศยานดอนเมือง",
+        Destination:"เชียงราย(CEI)",
+        AirportDestination:"สนามบินนานาชาติเชียงราย",
+        DateDetail: [{
+            DateStart : {
+            Date: "07 DEC 2020",
+            DepartureTime: "17:55", 
+            ArrivingTime: "19:15"}
+        }],
+        CaptionName:"ธนภัทร กาวิละ",
+        CoPilotName:"ปรัชญ์ ปรมิณ",
+        Numberofreceptionist: 8
     },{
-        FlightNo:"",
-        Type:"",
+        FlightNo:"FD3506",
+        Type:"one-ways",
         Class:[{
-            FirstClass:{Price:"",NumberOfPassengers:""},
-            BusinessClass:{Price:"",NumberOfPassengers:""},
-            Economy:{Price:"",NumberOfPassengers:""}
+            FirstClass:{Price:89899,NumberOfPassengers:12},
+            BusinessClass:{Price:49990,NumberOfPassengers:60},
+            Economy:{Price:13540,NumberOfPassengers:435}
         }],
-        Source:"",
-        AirportSource:"",
-        Destination:"",
-        AirportDestination:"",
-        Date:"",
-        DepartureTime:"",
-        ArrivingTime:"",
-        CaptionName:"",
-        CoPilotName:"",
-        Numberofreceptionist:""
+        Source:"กรุงเทพมหานคร(BKK)",
+        AirportSource:"ท่าอากาศยานสุวรรณภูมิ",
+        Destination:"โซล(ICN)",
+        AirportDestination:"ท่าอากาศยานนานาชาติอินชอน",
+        DateDetail: [{
+            DateStart : {
+            Date: "07 DEC 2020",
+            DepartureTime: "01:00", 
+            ArrivingTime: "08:30"}
+        }],
+        CaptionName:"ปรัชญ์ ปรมิณ",
+        CoPilotName:"ปรัชญ์วรกิตติ์ ฆฤตภูริภาคย์",
+        Numberofreceptionist: 10
     }]
 }]
