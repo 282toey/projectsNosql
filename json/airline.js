@@ -1,8 +1,8 @@
 [{
     NameAirline:"Nok Air",
     FlightDetail:[{
-        FlightNo:"",
-        Type:"",
+        FlightNo:"DD7502",
+        Type:"one-ways",
         Class:[{
             FirstClass:{Price:"",NumberOfPassengers:""},
             BusinessClass:{Price:"",NumberOfPassengers:""},
