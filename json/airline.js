@@ -4,20 +4,20 @@
         FlightNo:"DD7502",
         Type:"one-ways",
         Class:[{
-            FirstClass:{Price:"",NumberOfPassengers:""},
-            BusinessClass:{Price:"",NumberOfPassengers:""},
-            Economy:{Price:"",NumberOfPassengers:""}
+            FirstClass:{Price:12500,NumberOfPassengers:12},
+            BusinessClass:{Price:9999,NumberOfPassengers:60},
+            Economy:{Price:1400,NumberOfPassengers:435}
         }],
-        Source:"",
-        AirportSource:"",
-        Destination:"",
-        AirportDestination:"",
-        Date:"",
-        DepartureTime:"",
-        ArrivingTime:"",
-        CaptionName:"",
-        CoPilotName:"",
-        Numberofreceptionist:""
+        Source:"กรุงเทพมหานคร(DMK)",
+        AirportSource:"ท่าอากาศยานดอนเมือง",
+        Destination:"ูเก็ต(HKT)",
+        AirportDestination:"ท่่าอากาศยานภูเก็ต",
+        Date:"07 DEC 2020",
+        DepartureTime:"16:00",
+        ArrivingTime:"17:30",
+        CaptionName:"นิธิวุฒิ โรจน์ประสิทธิ์พร",
+        CoPilotName:"กษิดิ์เดช ถนอมสิน",
+        Numberofreceptionist:"5"
     },{
         FlightNo:"",
         Type:"",
