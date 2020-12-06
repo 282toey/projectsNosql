@@ -17,7 +17,7 @@
         ArrivingTime:"17:30",
         CaptionName:"นิธิวุฒิ โรจน์ประสิทธิ์พร",
         CoPilotName:"กษิดิ์เดช ถนอมสิน",
-        Numberofreceptionist:"5"
+        Numberofreceptionist:5
     },{
         FlightNo:"",
         Type:"",
